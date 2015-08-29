@@ -37,7 +37,8 @@ function writeList($dir){
   <title>test_0</title>
   <meta charset="utf-8"/>
   <meta name="viewport" content="initial-scale=1.0"/>
-  <script src = "main.js"></script>
+  <meta name="description" content="phpで指定ディレクトリからファイルを取得します。"/>
+  <script src="metadesc.js"></script>
 </head>
 <body>
   <h1>指定ファイルの一覧(PHP)をリスト表示</h1>
